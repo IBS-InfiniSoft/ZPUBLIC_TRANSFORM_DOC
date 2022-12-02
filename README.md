@@ -1,4 +1,4 @@
-# ZTEST_TRANSFORM_DOC
+# ZPUBLIC_TRANSFORM_DOC
 Transformation to DOC format
 
 ## Description
